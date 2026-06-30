@@ -1,0 +1,6 @@
+{
+  "name": "hiringRight",
+  "description": "A professional, high-performance candidate exploration, evaluation, and multi-criteria ranking platform powered by server-side Gemini AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
